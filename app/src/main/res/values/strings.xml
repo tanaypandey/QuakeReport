@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Quake Report</string>
+    
+    <!--earthuake-->
+    <string name="m1">1</string>
+    <string name="m2">2</string>
+    <string name="m3">3</string>
+    <string name="m4">4</string>
+    <string name="m5">5</string>
+    <string name="m6">6</string>
+    <string name="m7">7</string>
+
+    <string name="p1">San Francisco</string>
+    <string name="p2">London</string>
+    <string name="p3">Tokyo</string>
+    <string name="p4">Mexico City</string>
+    <string name="p5">Moscow</string>
+    <string name="p6">Rio de Janeiro</string>
+    <string name="p7">Paris</string>
+
+    <string name="d1">date</string>
+    <string name="d2">date</string>
+    <string name="d3">date</string>
+    <string name="d4">date</string>
+    <string name="d5">date</string>
+    <string name="d6">date</string>
+    <string name="d7">date</string>
+</resources>
